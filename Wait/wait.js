@@ -24,4 +24,4 @@ function daysToBirthday(days)
         console.log("Hey!!!")
     }
 }
-daysToBirthday(40)
+daysToBirthday(20)

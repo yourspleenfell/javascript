@@ -7,6 +7,7 @@ function get_array(){
         }
     return arr;
 }
+
 function printSumto5000() {
 var y = 0;
 for (var x = 1; x < 5001; x+=2) {
